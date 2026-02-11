@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Muhammad%20Bilal%20Ghafoor&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20AIoT%20Systems&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Muhammad%20Bilal%20Ghafoor&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20IoT%20Systems&descAlignY=58&descAlign=50"/>
 </p>
 
 ---
