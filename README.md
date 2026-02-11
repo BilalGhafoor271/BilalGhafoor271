@@ -86,10 +86,10 @@ Let’s collaborate 🚀
   <a href="https://muhammadbilalghafoor.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/muhammad-bilal-ghafoor-24994a271/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:bilalsandhu2700@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
