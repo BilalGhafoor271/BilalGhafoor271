@@ -1,69 +1,101 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Muhammad%20Bilal%20Ghafoor&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Computer%20Vision%20|%20Laravel%20Backend&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Muhammad%20Bilal%20Ghafoor&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20AIoT%20Systems&descAlignY=58&descAlign=50"/>
 </p>
 
 ---
 
-## 👋 About Me
-AI Engineer passionate about building **real-world intelligent systems** using  
-Computer Vision, Machine Learning, and AIoT.
+## 🧠 About Me
 
-I design scalable AI solutions that combine:
-- 🤖 Deep Learning
-- 📷 Computer Vision
-- ⚙️ Automation Systems
-- 🌐 Laravel Backend APIs
+I am an **AI Engineer** focused on building intelligent, scalable, and production-ready systems.  
+My work revolves around solving real-world problems using:
 
----
+- 🤖 Artificial Intelligence  
+- 📊 Machine Learning & Deep Learning  
+- 👁 Computer Vision  
+- 🌐 AIoT & Smart Automation Systems  
 
-## 🛠 Tech Stack
+I design end-to-end solutions — from model training and optimization to backend APIs and system deployment — bridging **hardware and software** to create impactful AI products.
 
-### AI & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat)
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+My mission:  
+> Transform complex data into intelligent decision-making systems.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Core Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+## 🤖 Artificial Intelligence & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv"/>
+</p>
+
+## 👁 Computer Vision & Intelligent Systems
+<p>
+  <img src="https://img.shields.io/badge/Image%20Processing-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object%20Detection-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pose%20Estimation-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-1f1f1f?style=for-the-badge"/>
+</p>
+
+## 🌐 AIoT & Smart Automation
+<p>
+  <img src="https://img.shields.io/badge/ESP32-0f0f0f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-0f0f0f?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/Sensor%20Integration-0f0f0f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Edge%20AI-0f0f0f?style=for-the-badge"/>
+</p>
+
+## ⚙ Backend & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Laravel-2b2b2b?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/PHP-2b2b2b?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/MySQL-2b2b2b?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Docker-2b2b2b?style=for-the-badge&logo=docker"/>
 </p>
 
 ---
 
-## 🚀 Featured Work
-- 🏥 MedVision AI — X-ray Intelligence System  
-- 🏎 License Plate Recognition System  
-- 🏀 CoachAI Pose Detection  
-- 🅿 Smart Parking Automation  
-- 🤖 RAG Chatbot (FastAPI + LangChain)
+# 🌟 Selected Projects
 
-Explore more → 🌐 [Portfolio](https://muhammadbilalghafoor.vercel.app/)
+- 🏥 **MedVision AI** — Intelligent X-ray Analysis System  
+- 🚘 **License Plate Recognition** — Real-time detection & OCR pipeline  
+- 🏀 **CoachAI Motion Analysis** — Pose detection for sports analytics  
+- 🅿 **Smart Parking AIoT System** — Camera + IoT automation  
+- 🤖 **Blueprint Assistant (RAG)** — FastAPI + LangChain AI chatbot  
+
+Explore more → 🌐 **Portfolio:**  
+👉 https://muhammadbilalghafoor.vercel.app/
 
 ---
 
-## 🌍 Connect
+# 🤝 Let’s Build Something Intelligent
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://muhammadbilalghafoor.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+If you’re working on:
+- AI products
+- Computer Vision systems
+- Smart IoT solutions
+- AI-powered startups  
+
+Let’s collaborate 🚀
+
+<p align="center">
+  <a href="https://muhammadbilalghafoor.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Building AI systems that solve real-world problems."</i>
+  <i>Engineering intelligence. Deploying impact.</i>
 </p>
