@@ -58,16 +58,6 @@ I am an **AI Engineer and Researcher** dedicated to building intelligent, scalab
   </tr>
 </table>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadbilalghafoor&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" alt="Bilal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilalghafoor&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
-</p>
-
----
 
 # 🌟 Featured Projects
 
